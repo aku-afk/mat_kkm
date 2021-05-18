@@ -1,6 +1,6 @@
 /*
 
-   tugas ini dibuat dengan usaha yang besar
+   tugas ini dibuat dengan doa dan usaha yang besar
    oleh : rahmat_k
 
 */
